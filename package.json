@@ -10,8 +10,7 @@
     "dist",
     "src/components/"
   ],
-  "main": "./dist/template-vue-component-lib.cjs",
-  "module": "./dist/template-vue-component-lib.js",
+  "main": "./dist/template-vue-component-lib.umd.cjs",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
